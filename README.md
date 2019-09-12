@@ -6,4 +6,4 @@ All code was written in [Visual Studio 2019](https://visualstudio.microsoft.com/
 g++ -Wall change_calculator.cpp
 ```
 ## Email_Creator
-Designed to read example information in the form of an email template and customer information, before displaying example emails
+Designed to read example information from "email_template.txt" and "email_list.txt," before displaying example emails
